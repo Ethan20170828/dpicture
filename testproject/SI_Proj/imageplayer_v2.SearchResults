@@ -1,0 +1,2 @@
+---- memcpy Matches (1 in 1 files) ----
+Fb_jpeg.c (c:\winshare\s5pv210\project\picture\dpicture_v2\testproject\display):	   	memcpy(pPic->pData + (cinfo.output_scanline-1) * row_stride, buffer, row_stride);
